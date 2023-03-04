@@ -1,0 +1,11 @@
+{
+  "name": "cra-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jcubic/cra-bug.git",
+  "author": "Jakub Jankiewicz <jcubic@onet.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^8.35.0"
+  }
+}
